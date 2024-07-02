@@ -25,13 +25,14 @@ We need to find the distance from Theophilus crater to the landing site of the A
 	Enter coordinates in the format 'value° N/S/E/W'.
 	Longitude of the first point: 11.4 S
 	Latitude of the first point: 26.4 E
-	Longitude of the second point: 8.9734 S
-	Latitude of the second point: 15.5011 E
+	Longitude of the second point: 8.97301 S
+	Latitude of the second point: 15.50019 E
+
 ```
 The output will be:
 
 ```console
-	Coordinates entered: (15.50019, -8.97301), (26.4, -11.4)
+	Coordinates entered: (26.4, -11.4), (15.50019, -8.97301)
 	Distance between the points: 337.558494 km
 ```
 
