@@ -58,7 +58,7 @@ lon2 = get_coordinates("Longitude of the second point: ")
 lat2 = get_coordinates("Latitude of the second point: ")
 
 # Display entered coordinates
-print(f"Coordinates entered: ({lat1}, {lon1}), ({lat2}, {lon2})")
+print(f"Coordinates entered: ({lon1}, {lat1}), ({lon2}, {lat2})")
 
 # Calculate and output the distance
 distance = haversine(lon1, lat1, lon2, lat2, moon_radius)
