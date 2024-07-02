@@ -31,6 +31,7 @@ We need to find the distance from Theophilus crater to the landing site of the A
 The output will be:
 
 ```console
-	Distance between the points: 337.53 km
+	Coordinates entered: (15.50019, -8.97301), (26.4, -11.4)
+	Distance between the points: 337.558494 km
 ```
 
