@@ -1,7 +1,6 @@
 ## LunarDistanceCalculator
 
 This Python script calculates the distance between two points on the Moon's surface using the haversine formula.
-The script was written in 5 minutes while I was searching the web for online calculators, so don't expect anything special from it.
 
 ## Requirements
 
